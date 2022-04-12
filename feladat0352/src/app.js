@@ -1,7 +1,7 @@
 /*
 * File: app.js
-* Author: Juhász Bettina
-* Copyright: 2022, Juhász Bettina
+* Author: Csorba Nikoletta
+* Copyright: 2022, Csorba Nikoletta
 * Group: Szoft I/1/E
 * Date: 2022-03.31
 * Github: https://github.com/juhaszbettina/feladat0352.git
