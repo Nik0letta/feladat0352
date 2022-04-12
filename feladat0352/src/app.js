@@ -4,7 +4,7 @@
 * Copyright: 2022, Csorba Nikoletta
 * Group: Szoft I/1/E
 * Date: 2022-03.31
-* Github: https://github.com/juhaszbettina/feladat0352.git
+* Github: https://github.com/Nik0letta/feladat0352.git
 * Licenc: GNU GPL
 */
 
